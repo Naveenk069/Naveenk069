@@ -26,6 +26,7 @@ Secondary School Leaving Certificate                                            
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 TECHNICAL SKILLS
+
 •	C Programming (Intermediate)
 •	JAVA Programming (Intermediate)
 •	Python Programming (Basic)
@@ -36,6 +37,7 @@ TECHNICAL SKILLS
 •	Containers w/ Docker, Kubernetes & OpenShift (Basic)
 
 SOFT SKILLS 
+
 •	Communication
 •	Team management
 •	Time management
@@ -43,15 +45,43 @@ SOFT SKILLS
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 PROJECT WORK
-•	Name s             : Front-end development                                                                                              2023
-•	Skills             : Java and PHP programming, Android Studio code
-•	Role  s            : Front-end development
-•	Outcomes           : Enrich the people about eating healthy and staying fit in their lifestyle
+•	Name               : Front-end development                                                                                              (2023)
+••	Skills             : Java and PHP programming, Android Studio code
+••	Role               : Front-end development
+••	Outcomes           : Enrich the people about eating healthy and staying fit in their lifestyle
 
-•	Name               : Licence plate detection                                                                                            2024                                                                                        
-•	Skills             : Python and Machine learning
-•	Role  s            : Full-stack development
-•	Outcomes           : Detection of vehicle number plate using machine learning algorithm
+•	Name               : Licence plate detection                                                                                            (2024)
+••	Skills             : Python and Machine learning
+••	Role               : Full-stack development
+••	Outcomes           : Detection of vehicle number plate using machine learning algorithm
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+CERTIFICATIONS
+
+•	Data Analysis with spreadsheets                                                                                                      (2023)
+•	Data Analysis with python                                                                                                             (2024)
+•	Introduction on Docker-Containers, Kubernets                                                                               (2024)
+•	Hands-on Linux Commands                                                                                                            (2024)
+•	AWS Cloud Practitiioner                                                                                                                 (2024)
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+INTERNSHIPS
+
+•	Java programming Internship at Codsoft                                                                                         (2024)
+•	Campus Ambassador Internship at Wayspire                                                                                  (2024)
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+PERSONAL DETAILS
+
+•	Father’s name         : Murugesan R
+•	Mother’s name         : Vijayalakshmi M
+•	Language known        : Tamil(native), English, Japanese(basic level)
+•	Martial status        : Unmarried
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
