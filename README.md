@@ -1,6 +1,6 @@
-                                                                                                            Naveenkumar M
-                                                                                                    Aspiring Software Developer
-                                                                               www.linkedin.com/in/nk069 | mnaveenk2004@gmail.com | +91 809 860 0300
+                                                                      Naveenkumar M
+                                                               Aspiring Software Developer
+                                             www.linkedin.com/in/nk069 | mnaveenk2004@gmail.com | +91 809 860 0300
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 CAREER SUMMARY
@@ -8,6 +8,7 @@ A dedicated and ambitious Computer Science and Engineering student at M.Kumarasa
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 EDUCATION BACKGROUND
+
 Bachelor of Engineering in Computer Science and Engineering                                                                                                                                                                             2022-2026
 •	Pursuing
 •	M.Kumarasamy College of Engineeering
