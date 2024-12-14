@@ -26,7 +26,7 @@ A dedicated and ambitious Computer Science and Engineering student at [M.Kumaras
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 🔭 I’m currently involve in Machine learning frameworks to build SAAS product  
   
@@ -49,10 +49,7 @@ A dedicated and ambitious Computer Science and Engineering student at [M.Kumaras
 📄 Know about my experiences https://drive.google.com/file/d/18aeM4pqLh1jwLeatkPDZ9I-LAX7a1hEL/view  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
+</td>
 </div>  
 
 
@@ -115,4 +112,3 @@ A dedicated and ambitious Computer Science and Engineering student at [M.Kumaras
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
