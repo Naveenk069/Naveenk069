@@ -26,7 +26,7 @@ A dedicated and ambitious Computer Science and Engineering student at [M.Kumaras
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="90%">
 
 🔭 I’m currently involve in Machine learning frameworks to build SAAS product  
   
