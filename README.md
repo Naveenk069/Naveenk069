@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Naveenkumar!
-Aspiring Software developer from India  
+Student | Aspiring Software developer from India  
   
 
 <a href="https://linkedin.com/in/nk069" target="_blank">
