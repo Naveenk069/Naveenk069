@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Naveenkumar!
-Student | Aspiring Software developer from India  
+Student | Junior Cyber Security | Aspiring Software developer from India  
   
 
 <a href="https://linkedin.com/in/nk069" target="_blank">
@@ -19,7 +19,7 @@ Student | Aspiring Software developer from India
 
 
 ### Glad to see you here!  
-A dedicated and ambitious Computer Science and Engineering student at [M.Kumarasamy College of Engineering](www.mkce.ac.in). Talented performer with experience in Data Science and MERN stack Development technologies. My passion is to apply the most up-to-date developing techniques to create a brand-new application and websites. Motivated to learn and instruct new technologies. Way toward accomplishing the Goals.  
+A dedicated and ambitious Computer Science and Engineering student at [M.Kumarasamy College of Engineering](www.mkce.ac.in). Talented performer with experience in Cloud & Cyber Security specialist and MERN stack Development technologies. My passion is to apply the most up-to-date developing techniques to create a brand-new application and websites. Motivated to learn and instruct new technologies. Way toward accomplishing the Goals.  
   
 
 <br/>  
