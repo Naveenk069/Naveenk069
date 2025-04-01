@@ -31,10 +31,10 @@ A dedicated and ambitious Computer Science and Engineering student at [M.Kumaras
 🔭 I’m currently involve in Machine learning frameworks to build SAAS product  
   
 
-🌱 I’m currently learning AWS cloud and Machine Learning   
+🌱 I’m currently learning AWS cloud and Cyber Security  
   
 
-❓ Ask me about anything related to Machine Learning and its related technologies  
+❓ Ask me about anything related to AWS cloud and its related technologies  
   
 
 ⚡ Fun fact: I keep night shift swithed off at all times   
